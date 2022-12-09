@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Busqueda Amazon" skipped="0" tests="1" time="6.34" timestamp="2022-12-08 10:24:37"><testcase name="Busqueda Articulo"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.CommonMethods.CommonMethods.sendKeysElement(CommonMethods.java:65)&#13;
+com.Pages.HomePage.sendKeysInputBusqueda(HomePage.java:17)&#13;
+AmazonSteps.Capturar_busqueda(AmazonSteps.java:28)&#13;
+✽.Capturar busqueda Computadoras(classpath:features/Amazon.feature:5)&#13;
+</system-err></testcase></testsuite>
